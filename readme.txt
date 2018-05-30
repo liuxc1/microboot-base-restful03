@@ -1,0 +1,1 @@
+该项目 spring boot + mybatis +多数据源，通过AOP在service层根据注解切换数据源，并可有声明式事物。
